@@ -19,7 +19,6 @@
     <sprite>sprites\S_Sand_2</sprite>
     <sprite>sprites\S_Hatch</sprite>
     <sprite>sprites\S_Hatch_Lit</sprite>
-    <sprite>sprites\sprite33</sprite>
     <sprite>sprites\sprite32</sprite>
     <sprite>sprites\sprite34</sprite>
     <sprite>sprites\sprite36</sprite>
@@ -28,7 +27,6 @@
     <sprite>sprites\S_Player_Legs_2</sprite>
     <sprite>sprites\Sand_1</sprite>
     <sprite>sprites\Sand_2</sprite>
-    <sprite>sprites\sprite40</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -46,7 +44,6 @@
     <object>objects\O_Building_S</object>
     <object>objects\O_Hatch</object>
     <object>objects\object11</object>
-    <object>objects\object12</object>
     <object>objects\Sand2</object>
   </objects>
   <rooms name="rooms">
